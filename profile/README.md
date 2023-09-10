@@ -1,5 +1,5 @@
 # coochbeharcollege.github.io
-# Welcome to Coochbehar College GitHub Repository
+# Welcome to Coochbehar College (CS Dept.) GitHub Repository
 
 ## About Us
 
