@@ -28,4 +28,5 @@ We're excited to have you as part of the Coochbehar College coding community. Le
 For inquiries, please contact: 
 Dipankar Kumar Roy (Alumni) Telegram: [@dipankarkumarroy](https://t.me/dipankarkumarroy).
 
-![Coochbehar College Campus](campus_image.jpg)
+![Computer LAB](![image](https://github.com/coochbeharcollege/.github/assets/87216666/d0638287-9a85-492b-a94f-ed6984bb2a89)
+)
